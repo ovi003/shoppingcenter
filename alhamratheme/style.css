@@ -1,0 +1,162 @@
+/*
+Theme Name: RC Theme
+Author Name: Right Click Software
+Author URI: www.rightclick.com
+Description: Simple Blog Theme
+*/
+.container{
+	max-width: 1000px!important;
+}
+.headertext{
+	margin-top: 30px;
+	color: gray;
+}
+#searchbutton{
+	margin-top: 35px;
+}
+.input-group-addon{
+	background-color: skyblue!important;
+}
+.glyphicon{
+	color: white!important;
+}
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover{
+	background-color: transparent!important;
+	text-decoration: underline;
+} 
+.navbar-default .navbar-nav a:hover{
+	text-decoration: underline;
+}
+
+.navbar{
+	border:0px!important;
+	background-color: skyblue!important;
+	border-radius: 10px!important;
+	margin-top: 20px;
+}
+.navbar-nav{
+	margin-top: 14px!important;
+}
+.navbar-nav>li>a{
+	padding-top: 0px!important;
+	padding-bottom: 0px!important;
+	color: white!important;
+	border-right: 1px solid white;
+	font-size: 16px;
+}
+.nav>li>a{
+	padding: 0px 25px!important;
+}
+.item{
+	height: 350px;
+}
+.item img{
+	height: 350px!important;
+	width: 100%!important;
+}
+#newalhamra{
+	margin-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid lightgray;
+}
+#siteborder{
+	height: 30px;
+	border-radius: 10px;
+	background-color: skyblue;
+	margin-bottom: 20px;
+}
+img.siteimg{
+	height: 300px!important;
+	width: 100%;
+}
+.sitepara{
+	margin-top: 10px;
+}
+.sitenav li{
+	float: left;
+	list-style: none;
+	border-right: 1px solid lightgray;
+}
+.sitenav>li>a{
+	padding: 0px 10px!important;
+	color: gray;
+}
+.sitenav>li>a:hover{
+	text-decoration: underline!important;
+}
+.sitenav>li:last-child{
+	border-right: none;
+}
+#hamadan{
+	padding-bottom: 20px;
+	border-bottom: 1px solid lightgray;
+}
+.imgresize{
+	width: 300px;
+	height: 320px!important;
+}
+/*#item{
+	padding-left: 50px;
+}*/
+.hamadanrow{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.hamadanrow #item:last-child{
+	padding-right: 0px;
+	padding-left: 32px!important;
+}
+.hamadanrow #item:first-child{
+	padding-left: 0px!important;
+}
+.singitem{
+	display: block;
+	text-align: center;
+}
+.bottomcontent .singitem:last-child{
+	padding-right: 0px!important;
+}
+.bottomcontent .singitem:first-child{
+	padding-left: 0px!important;
+}
+.bottomcontent{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid lightgray;
+}
+.bottomimg{
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height:200px!important;
+}
+
+#content{
+	border-bottom: 1px solid lightgray;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#leftsidebar h3{
+	padding-bottom: 10px;
+	border-bottom: 1px solid lightgray;
+}
+.leftnav ul{
+	margin: 0px;
+	padding: 0px;
+}
+.leftnav li{
+	list-style: none;
+	line-height: 30px;
+}
+.leftnav li a{
+	color: black;
+}
+.title{
+	margin: 0px;
+}
+
+footer{
+	padding: 20px 0px;
+}
